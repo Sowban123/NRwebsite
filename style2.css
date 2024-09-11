@@ -499,5 +499,7 @@ footer{
         background-color: rgb(46, 40, 40);
     }
 
-
+    h1 {
+        font-size: 11px;
+    }
 }

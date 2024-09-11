@@ -721,3 +721,22 @@ footer {
         top: 5%;
     }
 }
+
+@media(max-width:300px){
+
+.aboutimg img {
+    border-radius: 10px;
+    height: 36vh;
+}
+.inputbox {
+    width: 229%;
+    height: 65px;
+    position: relative;
+    right: 131px;
+}
+.contactform h2 {
+    font-size: 12px;
+    position: relative;
+    right: 74px;
+}
+}
